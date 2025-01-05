@@ -142,11 +142,11 @@ export const footerLinks = [
   {
     title: "Foydali Havolalar",
     links: [
-      { name: "Content", link: "https://www.sammi.ac/content/" },
-      { name: "Qanday ishlaydi", link: "https://www.sammi.ac/how-it-works/" },
+      { name: "Content", link: "#" },
+      { name: "Qanday ishlaydi", link: "#" },
       {
         name: "Shartlar & xizmatlar",
-        link: "https://www.sammi.ac/terms-and-services/",
+        link: "#",
       },
     ],
   },
@@ -156,11 +156,11 @@ export const footerLinks = [
     links: [
       {
         name: "Bizning hamkorimiz",
-        link: "https://www.sammi.ac/our-partner/",
+        link: "#",
       },
       {
         name: "Hamkor bo'ling",
-        link: "https://www.sammi.ac/become-a-partner/",
+        link: "#",
       },
     ],
   },
